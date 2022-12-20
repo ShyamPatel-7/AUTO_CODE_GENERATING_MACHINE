@@ -1,0 +1,18 @@
+variable name shold not be repete.
+variable name should not be any special char or reverse keyword   //done for members
+variable name must be obey all rules of variable declaration.       //done for members
+spcial_char not allowed
+
+
+
+//auto increment
+function ready  
+
+(int baseValue = 1;) globle variable yet to implement
+add option at position 7    //yet to implement
+add condition to select only one data member as auto increment variable
+add function call and conditons into add_begin and add_end
+
+
+
+
